@@ -1,3 +1,8 @@
+This repository is a fork from jonathanpalma/react-native-tesseract-ocr
+It does not add any functionnality but fixes the repository creation in android api 29+
+As the original owner does not seems to update it anymore I hope it helps you !
+
+
 <div align="center">
   <h1>react-native-tesseract-ocr 👀</h1>
   <p>
